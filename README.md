@@ -9,13 +9,11 @@ Following techniques were used to implement this tasks:
 
 ## Example Images
 
-<img src="/img/1.png" width="400">
 This is a random created maze with 4900 nodes.
+<img src="/img/1.png" width="400">
 
-
-<img src="/img/2.png" width="400">
 This is an another random created maze with 4900 nodes with the shortest path from 0 to 4700.
-
+<img src="/img/2.png" width="400">
 
 ## Execute
 
