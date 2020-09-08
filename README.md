@@ -7,3 +7,7 @@ Following techniques were used to implement this tasks:
 - Random Depth First Search
 - Graph Theory
 
+#Example Images
+
+<img src="/img/1.png" width="400">
+
